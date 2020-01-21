@@ -1,4 +1,4 @@
-Dragon Ball 
-Pizza roll
-Game
-Money
+- Dragon Ball 
+- Pizza roll
+- Game
+- Money
