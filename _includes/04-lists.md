@@ -1,0 +1,4 @@
+- Dragon Ball 
+- Pizza roll
+- Game
+- Money
